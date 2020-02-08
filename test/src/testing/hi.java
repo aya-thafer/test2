@@ -9,6 +9,8 @@ public class hi {
 		
 		x=5*4;
 		System.out.print(x);
+		
+		
 	
 	}
 
